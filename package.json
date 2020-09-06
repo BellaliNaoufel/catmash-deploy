@@ -2,7 +2,7 @@
   "name": "cat-mash",
   "version": "0.0.0",
   "engines": {
-    "node": "v12.13.1",
+    "node": "12.13.1",
     "npm": "6.12.1"
   },
   "scripts": {
@@ -36,7 +36,7 @@
     "@angular-devkit/build-angular": "~0.1000.5",
     "@angular/cli": "~10.0.5",
     "@angular/compiler-cli": "~10.0.6",
-    "@types/node": "^12.11.1",
+    "@types/node": "^12.13.1",
     "@types/jasmine": "~3.5.0",
     "@types/jasminewd2": "~2.0.3",
     "codelyzer": "^6.0.0",

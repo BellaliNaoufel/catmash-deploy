@@ -1,5 +1,5 @@
 # STEP 1 build static website
-FROM node:alpine as builder
+FROM node:12.13.1 as builder
 RUN apk update && apk add --no-cache make git
 # Create app directory
 WORKDIR /app
